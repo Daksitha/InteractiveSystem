@@ -1,0 +1,6 @@
+{
+  "MQTT_BROKER_USERNAME": "",
+  "MQTT_BROKER_PASSWORD": "",
+  "ARDUINO_BROKER_NAME": "tcp://192.168.0.102",
+  "ARDUINO_TOPIC_NAME": "project/input/sensors"
+}
